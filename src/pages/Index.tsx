@@ -14,7 +14,7 @@ import Navbar from "@/components/ui/navbar";
 import logo from "@/assets/logo.png";
 
 const PHONE = "+917297820374";
-const WA_LINK = `https://wa.me/917297823074?text=${encodeURIComponent("Hi Pilli Farm, I want to place an order")}`;
+const WA_LINK = `https://wa.me/917297820374?text=${encodeURIComponent("Hi Pilli Farm, I want to place an order")}`;
 
 const brands = ["All Brands", "Tirupati", "Gulab", "Fortune"];
 const categories = ["All", "Oils", "Ghee"];
